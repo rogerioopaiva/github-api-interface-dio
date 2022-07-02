@@ -3,7 +3,7 @@
 </h1>
 
 <h1>
-    <img src="">
+    <img src="./src/assets/github_api_interface_image.png">
 </h1>
 
 # Indice
