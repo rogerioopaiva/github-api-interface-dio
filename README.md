@@ -15,7 +15,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Github-Api-Interface** é um projeto da DIO sobre componentização com React onde que através de uma busca por um usuário, é exibido os dados de um usuário do Github.
+O projeto **Github-Api-Interface** é um projeto da DIO sobre componentização com React onde através de uma busca de um usuário é exibido os dados do seu Github.
 
 ---
 
